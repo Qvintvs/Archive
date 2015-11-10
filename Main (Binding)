@@ -3,7 +3,6 @@ task main()
  while (1==1) 
  (
  motor [port1] = vexRT [Ch2] ;
- motor [port10] = vexRT [Ch2] ;
+ motor [port10] = vexRT [Ch3] ;
  )
 )
-  
