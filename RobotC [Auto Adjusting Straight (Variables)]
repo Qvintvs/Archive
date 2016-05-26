@@ -37,3 +37,5 @@ while(SensorValue[leftencoder]<1200 && SensorValue[rightencoder]<1200) //Sets en
 			motor[leftmotor]=AdjN; // Equalizes motor speed.
 		}
 	}
+
+}
